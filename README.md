@@ -1,2 +1,2 @@
 # photographSystem
-springboot加spring security，基于阿里云云Redis和mysql，oss对象存储技术的影楼管理系统，jdk1.8，下载即可用
+springboot加spring security，基于阿里云云Redis和mysql，oss对象存储技术的影楼管理系统，jdk1.8，下载即可用，propties文件替换成自己的信息即可
